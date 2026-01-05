@@ -1,0 +1,20 @@
+# IFC Quality Validation Tool - Dependencies
+
+# Web framework
+streamlit>=1.28.0
+
+# IFC Processing
+ifcopenshell>=0.7.0
+
+# Data handling
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Visualization
+plotly>=5.18.0
+
+# PDF Generation
+reportlab>=4.0.0
+
+# Utilities
+python-dateutil>=2.8.0
